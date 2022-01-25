@@ -1,5 +1,5 @@
 {
-  "name": "color",
+  "name": "ts-color",
   "version": "4.2.0",
   "description": "Color conversion and manipulation with CSS string support",
   "keywords": [
