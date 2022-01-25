@@ -267,7 +267,8 @@ Color.prototype = {
 		const rgb = this.rgb().color;
 
 		const lum = [];
-		for (const [i, element] of rgb.entries()) {
+		for (let i = 0; i < rgb.length; i++) {
+			const element = rgb[i];
 			const chan = element / 255;
 			lum[i] = (chan <= 0.039_28) ? chan / 12.92 : ((chan + 0.055) / 1.055) ** 2.4;
 		}
