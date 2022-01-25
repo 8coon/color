@@ -1,6 +1,7 @@
 {
   "name": "@kiy/color",
   "version": "4.2.0",
+  "private": false,
   "description": "Color conversion and manipulation with CSS string support",
   "keywords": [
     "color",
