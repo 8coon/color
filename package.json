@@ -26,8 +26,10 @@
   },
   "files": [
     "LICENSE",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
+  "types": "index.d.ts",
   "scripts": {
     "pretest": "xo",
     "test": "mocha"

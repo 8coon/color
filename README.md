@@ -7,6 +7,9 @@ The original readme is provided here as-is.
 
 You can find the original licence in [LICENCE](LICENCE) file.
 
+It also contains types from
+[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/color/index.d.ts).
+
 ___
 
 > JavaScript library for immutable color conversion and manipulation with support for CSS color strings.
