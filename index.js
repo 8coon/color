@@ -267,6 +267,7 @@ Color.prototype = {
 		const rgb = this.rgb().color;
 
 		const lum = [];
+		// eslint-disable-next-line unicorn/no-for-loop
 		for (let i = 0; i < rgb.length; i++) {
 			const element = rgb[i];
 			const chan = element / 255;
