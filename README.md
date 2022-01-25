@@ -1,4 +1,13 @@
-# color
+# @kiy/color
+
+This is a fork of [https://github.com/Qix-/color](color) package I made
+to fix an annoying instance of iterator usage that was breaking my code.
+
+The original readme is provided here as-is.
+
+You can find the original licence in [LICENCE](LICENCE) file.
+
+___
 
 > JavaScript library for immutable color conversion and manipulation with support for CSS color strings.
 
